@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+    margin:0;
+    padding:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+section{
+    background:white;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+}
+
+img{
+    width:180px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+}
+
+h2{
+    color:#333;
+}
+
+input,
+textarea{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+}
+
+button{
+    background:#333;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    margin-top:10px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:black;
+}
