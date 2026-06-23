@@ -1,33 +1,33 @@
-# Animated Webpage
+# Task 8 - Add Animations to a Webpage
 
-## Project Overview
+## Objective
 
-This project demonstrates the use of CSS animations and transitions to enhance a webpage's user experience.
+The objective of this task is to enhance a webpage by adding animations and transitions using CSS. Animations improve user experience by making the website more interactive and visually appealing.
 
 ## Features
 
-* Fade-in header animation
-* Slide-up blog card animations
-* Hover effects with scaling and shadow
-* Responsive design
-* Modern UI
+* Responsive navigation bar using Bootstrap 5
+* Attractive hero section with fade-in animation
+* Animated cards with hover effects
+* Smooth button transitions
+* Slide-up animations for content sections
+* Responsive design for desktop and mobile devices
 
 ## Technologies Used
 
 * HTML5
 * CSS3
-* Google Fonts
+* Bootstrap 5
 
-## CSS Concepts Used
+## Animations Implemented
 
-* Transitions
-* @keyframes
-* Transform
-* Animation
+* **Fade-In Animation:** Applied to the hero section using `@keyframes`
+* **Hover Effects:** Added to cards and buttons using CSS transitions
+* **Slide-Up Animation:** Applied to content sections for smooth appearance
 
 ## Project Structure
 
-TASK_8_WEBPAGE_ANIMATIONS/
+TASK_8_ANIMATED_WEBPAGE/
 
 ├── index.html
 
@@ -35,14 +35,22 @@ TASK_8_WEBPAGE_ANIMATIONS/
 
 ├── README.md
 
-└── animation_output.png
+└── screenshots/
 
-## How to Run
+## How to Run the Project
 
 1. Download or clone the repository.
-2. Open `index.html` in a web browser.
-3. Observe the animations and hover effects.
+2. Open the project folder in VS Code.
+3. Open `index.html` in a web browser or use Live Server.
+4. Interact with the webpage to view animations and transitions.
 
+## Learning Outcomes
+
+* Learned to use CSS transitions and animations.
+* Understood the use of `@keyframes` for custom effects.
+* Improved frontend design and user experience skills.
+* Gained experience in creating responsive and interactive webpages.
+  
 ## Developed By
 
 Vukoti Venkata Nagendra
